@@ -18,4 +18,7 @@ By centralizing key performance indicators—such as total revenue, unique order
 
 # Dashboard Overview
 ![E-Commerce-Retail-Sales-Analytics-Dashboard](Pizza_Store_Analytics_Dashboard.png)
-Performance Optimization (Streamlit Caching): Implements Streamlit decorators (@st.cache_resource for database connection pooling and @st.cache_data for dataframe caching) to prevent redundant SQL queries, minimize reruns, and lower latency.
+![E-Commerce-Retail-Sales-Analytics-Dashboard](Pizza Store Analytics - Dashboard2.png)
+
+
+
