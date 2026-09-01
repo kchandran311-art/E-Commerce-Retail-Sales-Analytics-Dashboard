@@ -17,6 +17,6 @@ Interactive Filtering & Session Control (Streamlit): Integrates interactive side
 By centralizing key performance indicators—such as total revenue, unique order counts (order_id.nunique()), average order values, and quantity metrics—the dashboard allows store managers to optimize inventory based on size popularity, streamline kitchen staffing around peak ordering hours, and identify high-revenue menu items.
 
 # Dashboard Overview
-[Pizza Store Analysis](Pizza Store Analytics- Dashboard.png)
+![Pizza_Store_Analysis](Pizza_Store_Analytics- Dashboard.png)
 
 Performance Optimization (Streamlit Caching): Implements Streamlit decorators (@st.cache_resource for database connection pooling and @st.cache_data for dataframe caching) to prevent redundant SQL queries, minimize reruns, and lower latency.
