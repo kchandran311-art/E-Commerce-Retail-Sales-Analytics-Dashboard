@@ -18,6 +18,7 @@ By centralizing key performance indicators—such as total revenue, unique order
 
 # Dashboard Overview
 ![E-Commerce-Retail-Sales-Analytics-Dashboard](Pizza_Store_Analytics_Dashboard.png)
+
 <img src="Pizza Store_Analytics_Dashboard2.png" alt="E-Commerce-Retail-Sales-Analytics-Dashboard" width="800">
 
 <img src="Pizza Store_Analytics_Dashboard3.png" alt="E-Commerce-Retail-Sales-Analytics-Dashboard" width="800">
